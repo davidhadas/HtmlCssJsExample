@@ -1,0 +1,38 @@
+h1 {
+    color: darkblue;
+    font-size: 70px;
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(219, 144, 46);
+    text-align: center;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    border: 0;
+    padding: 20px;
+    height: 100px;
+}
+
+div {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(197, 218, 241);
+}
+
+img {
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
